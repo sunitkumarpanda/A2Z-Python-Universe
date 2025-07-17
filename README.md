@@ -356,5 +356,3 @@ pip install -r requirements.txt
 │       ├── 8-Folder.txt
 │       └── 9-Folder.txt
 └── Untitled (1).py
-
-27 directories, 284 files
